@@ -15,10 +15,10 @@ In remembrance of Moti❤️
 
 ![Main Page](static/assets/screenshot.png)
 
-#### Three.js Starter
+## Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
-##### Setup
+### Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
