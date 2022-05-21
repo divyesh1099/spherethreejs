@@ -1,5 +1,5 @@
-# Spherethreejs
-Three JS try by Divyesh Vishwakarma deployed to _____________
+# [Spherethreejs](https://divyesh3dsphere.web.app/)
+Three JS try by [Divyesh Vishwakarma](https://github.com/divyesh1099) deployed to [divyesh3dsphere](https://divyesh3dsphere.web.app/)
 
 ## Description
 I tried learning Webgl and Threejs and created this Sphere.
@@ -7,7 +7,7 @@ I tried learning Webgl and Threejs and created this Sphere.
 One can setup light color, light position and everything in this website. 
 Have fun in 3D. 
 
-In remembrance of Moti❤️
+In remembrance of [Moti❤️](https://iloveyoumoti❤️)
 
 ## Some Screenshots
 
