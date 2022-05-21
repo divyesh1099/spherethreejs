@@ -7,7 +7,7 @@ I tried learning Webgl and Threejs and created this Sphere.
 One can setup light color, light position and everything in this website. 
 Have fun in 3D. 
 
-In remembrance of [Moti❤️](https://iloveyoumoti❤️)
+In remembrance of [Moti❤️](https://iloveyoumoti❤️.com)
 
 ## Some Screenshots
 
